@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @geethaguruju
 - I’m interested in learning new technologies!!
-- I’m currently learning Artificial Intelligence 
-- I’m looking to collaborate on projects related to network programming , distributed system , AI in python,java,C/C++
+- I’m currently learning Machine Learning & Artificial Intelligence.
+- I’m looking to collaborate on projects. 
+- I can code in python,C/C++,java,Javascript,php languages and familiar with frameworks like Node.js,Angular Js, Django(python).
 - You can reach me through email- geethaguruju@gmail.com
 
 <!---
