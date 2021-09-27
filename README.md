@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geethaguruju!!
+- 👋 Hi, I’m @geethaguruju!
 - I’m interested in learning new technologies!!
 - I’m currently learning Machine Learning & Artificial Intelligence.
 - I’m looking to collaborate on projects. 
