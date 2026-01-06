@@ -13,7 +13,7 @@ Hi, I'm a Master’s student in Computer Engineering at **NYU (Tandon School of 
 
 ---
 
-Seeking entry-level roles** in **Software Engineering, Data Engineering, or ML Systems**, where I can work on scalable data pipelines, model optimization, and production systems.
+Seeking **entry-level roles** in **Software Engineering, Data Engineering, or ML Systems**, where I can work on scalable data pipelines, model optimization, and production systems.
 
 ---
 
