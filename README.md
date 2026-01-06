@@ -1,6 +1,4 @@
-# Geetha Krishna Guruju
-
-Master’s student in Computer Engineering at **NYU (Tandon School of Engineering)** with prior industry experience as a **Software Engineer at JP Morgan Chase & Co.** My interests lie in **Machine Learning, Large Language Models, and Large Scale Data systems**, with an emphasis on building scalable, reliable, and production-ready AI solutions.
+Hi, I'm a Master’s student in Computer Engineering at **NYU (Tandon School of Engineering)** with prior industry experience as a **Software Engineer at JP Morgan Chase & Co.** My interests lie in **Machine Learning, Large Language Models, and Large Scale Data systems**, with an emphasis on building scalable, reliable, and production-ready AI solutions.
 
 ---
 
