@@ -2,7 +2,7 @@ Hi, I'm a Master’s student in Computer Engineering at **NYU (Tandon School of 
 
 ---
 
-## Technical Skills
+### Technical Skills
 
 **Programming:** Python, Scala, Java, C/C++, JavaScript
 **ML / DL:** PyTorch, Scikit-learn, Ray, PyTorch Lightning
@@ -12,8 +12,6 @@ Hi, I'm a Master’s student in Computer Engineering at **NYU (Tandon School of 
 **Cloud & DevOps:** AWS, Docker, Terraform, CI/CD, Git, Jenkins
 
 ---
-
-## What I’m Looking For
 
 Seeking entry-level roles** in **Software Engineering, Data Engineering, or ML Systems**, where I can work on scalable data pipelines, model optimization, and production systems.
 
